@@ -10,5 +10,8 @@ public class GithubKullanimi1 {
         System.out.println("main branch degisiklik 1. satır ");
 
         System.out.println("main branch degisiklik 2.satir");
+
+        System.out.println("neval branchında ortak classta degısıklık yaptım");
+
     }
 }
